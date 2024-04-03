@@ -106,7 +106,7 @@ configuration_options =
 		options = CommonNumberOptions999,
 		default = 20,
 	},
-    AddTitle("可能影响游戏体验的功能/Risky Options")
+    AddTitle("可能影响游戏体验的功能/Risky Options"),
     {
         name = "ignore_max_stack",
         label = "所有物品无视最大堆叠数/Ignore Max Stack Size",
