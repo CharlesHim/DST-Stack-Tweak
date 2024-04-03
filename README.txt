@@ -1,7 +1,7 @@
 作者：瑶光、C
 许可证：WTFPL，详见 LICENSE.md
 参考：https://steamcommunity.com/sharedfiles/filedetails/?id=3203859943
-GitHub：
+GitHub：https://github.com/CharlesHim/DST-Stack-Tweak
 ------
 
 关于“可能影响游戏体验的功能”的说明：
