@@ -1,7 +1,7 @@
 name = "堆叠数量调整/Stack Tweak"
 description = ""
 author = "瑶光 & C"
-version = "1.0.1"
+version = "1.0.2"
 forumthread = ""
 api_version = 10
 dst_compatible = true
