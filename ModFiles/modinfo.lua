@@ -1,7 +1,7 @@
 name = "堆叠数量调整/Stack Tweak"
 description = ""
 author = "瑶光 & C"
-version = "1.0.2"
+version = "1.1.0"
 forumthread = ""
 api_version = 10
 dst_compatible = true
@@ -114,5 +114,12 @@ configuration_options =
         options = CommonBoolOptions,
         default = false,
     },
+	{
+		name = "campatibility_mode_enabled",
+		label = "兼容模式/Compatibility Mode",
+		hover = "不明白这是啥就别动/USE AT YOUR OWN RISK",
+		options = CommonBooleanOptions,
+		default = true,
+	},
 }
 
