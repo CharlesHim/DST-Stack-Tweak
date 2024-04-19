@@ -12,7 +12,7 @@ if GetModConfigData("tweak_enabled") then
     TUNING.WORTOX_MAX_SOULS = GetModConfigData("stack_tweak_soul")
 
 
-    if not GetModConfigData("compatibility_mode_enabled") then
+    if not GetModConfigData("compatibility_mode_enabled") then 
         local stackable_replica = GLOBAL.require("components/stackable_replica")
         stackable_replica._ctor = function(self, inst)
             self.inst = inst
